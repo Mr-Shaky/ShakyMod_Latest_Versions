@@ -1,5 +1,5 @@
 ShakyMod_ModsMenu 1.73 Added ID conflict checker option
-ShakyMod_Tweaks 1.2 Fixed bot spawning cheat creating bots incorrectly\nLeaving home AP removal no longer overwrites roaming_home label
+ShakyMod_Tweaks 1.3 Automatically disables incompatible debt/economy options when using Tweaks with SR24
 ShakyMod_Fitness dev
 ShakyMod_Parts 1.1
 ShakyMod_Parts_Defects 1.0
