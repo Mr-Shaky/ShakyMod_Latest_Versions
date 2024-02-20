@@ -1,0 +1,22 @@
+{
+    "Squirrel24": {
+        "Mob Quest": {
+            "latest_version": 3.1
+        },
+        "Night School": {
+            "latest_version": 2.2
+        },
+        "Home Workout": {
+            "latest_version": 2.1
+        },
+        "Squirrel Bots": {
+            "latest_version": 1.1
+        },
+        "Pawnshop": {
+            "latest_version": 1.1
+        },
+        "Parts": {
+            "latest_version": 2.1
+        }
+    }
+}
